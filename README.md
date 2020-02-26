@@ -1,1 +1,1 @@
-# Gerson-says-game-Simon-says-
+# Gerson says game (Simon says)
